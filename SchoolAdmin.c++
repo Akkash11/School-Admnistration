@@ -38,7 +38,6 @@ void loading()
       Sleep(30);
     }
   char password[25];
-    //password
   cout<<"\n\n\n\n\n\n\n\n\t\t\t ENTER THE PASSWORD:";
   gets(password);
   char t[13]="WELCOME";
