@@ -93,6 +93,7 @@ class account
         scrnt++;
    } 
 };
+//main
 int main()
 {
   int mch;
