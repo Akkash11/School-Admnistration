@@ -10,7 +10,7 @@
 #include<math.h>
 #include "windows.h"
 using namespace std;
-//fuctions
+
 void addrecord();
 void delrecord();
 void modrecord();
