@@ -234,7 +234,7 @@ void disprecord()
   getch();
   fout.close();
 }
-//delete record
+//delete a record
 void delrecord()
 {
   account ob5;
