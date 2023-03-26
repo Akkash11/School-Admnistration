@@ -27,7 +27,6 @@ void gotoxy(int x, int y)
     coord.Y = y;
     SetConsoleCursorPosition(GetStdHandle(STD_OUTPUT_HANDLE), coord);
 }
-//l
 void loading()
 {
   for (int i=0;i<101;i++)
